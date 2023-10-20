@@ -4,19 +4,20 @@ package br.com.carstore.model;
 
 public class Car {
 
-    private int id;
+    private String id;
     private String name;
 
-    public Car(int id, String name) {
+    public Car(String id, String name) {
         this.id = id;
         this.name = name;
     }
 
-    public int getId() {
-        return id;
+
+    public String getId() {
+        return String.valueOf(id);
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
