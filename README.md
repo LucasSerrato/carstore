@@ -1,4 +1,3 @@
-Claro! Abaixo está o conteúdo detalhado para o arquivo `README.md` do seu projeto **CarStore**, com descrições em **português** e **inglês**, adequado para um nível acadêmico. Você pode copiar e colar este conteúdo diretamente no seu repositório do GitHub:
 
 ```markdown
 # 🚗 CarStore - Projeto Acadêmico / Academic Project
