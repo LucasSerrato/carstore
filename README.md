@@ -28,28 +28,28 @@ The **CarStore** project was designed for educational purposes, aiming to:
 
 ## 🛠️ Tecnologias Utilizadas / Technologies Used
 
-- **Java**: Linguagem de programação principal para a lógica de negócios.
-- **Spring Boot**: Framework para facilitar a configuração e desenvolvimento da aplicação.
-- **Maven**: Ferramenta de automação de compilação e gerenciamento de dependências.
-- **Banco de Dados**: Integração planejada com banco de dados relacional (por exemplo, MySQL ou PostgreSQL).
+- Java: Linguagem de programação principal para a lógica de negócios.
+- Spring Boot: Framework para facilitar a configuração e desenvolvimento da aplicação.
+- Maven: Ferramenta de automação de compilação e gerenciamento de dependências.
+- Banco de Dados: Integração planejada com banco de dados relacional (por exemplo, MySQL ou PostgreSQL).
 
-- **Java**: Main programming language for business logic.
-- **Spring Boot**: Framework to facilitate application setup and development.
-- **Maven**: Build automation and dependency management tool.
-- **Database**: Planned integration with a relational database (e.g., MySQL or PostgreSQL).
+- Java: Main programming language for business logic.
+- Spring Boot: Framework to facilitate application setup and development.
+- Maven: Build automation and dependency management tool.
+- Database: Planned integration with a relational database (e.g., MySQL or PostgreSQL).
 
 ---
 
 
-- **controller/**: Contém as classes responsáveis por lidar com as requisições HTTP.
-- **model/**: Define as entidades e seus atributos correspondentes ao banco de dados.
-- **repository/**: Interfaces que gerenciam a comunicação com o banco de dados.
-- **resources/**: Arquivos de configuração e templates da aplicação.
+- controller: Contém as classes responsáveis por lidar com as requisições HTTP.
+- model: Define as entidades e seus atributos correspondentes ao banco de dados.
+- repository: Interfaces que gerenciam a comunicação com o banco de dados.
+- **resources: Arquivos de configuração e templates da aplicação.
 
-- **controller/**: Contains classes responsible for handling HTTP requests.
-- **model/**: Defines entities and their attributes corresponding to the database.
-- **repository/**: Interfaces that manage communication with the database.
-- **resources/**: Application configuration files and templates.
+- controller: Contains classes responsible for handling HTTP requests.
+- model: Defines entities and their attributes corresponding to the database.
+- repository: Interfaces that manage communication with the database.
+- resources: Application configuration files and templates.
 
 ---
 
@@ -166,4 +166,4 @@ Este projeto representa a interseção entre **tecnologia, educação e design**
 
 ```
 
-Este `README.md` fornece uma visão detalhada do projeto **CarStore**, incluindo objetivos, tecnologias utilizadas, estrutura do projeto, funcionalidades planejadas, instruções de configuração e execução, notas adicionais e informações sobre a licença, tudo em português e inglês. 
+
