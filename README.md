@@ -40,29 +40,6 @@ The **CarStore** project was designed for educational purposes, aiming to:
 
 ---
 
-## 🏗️ Estrutura do Projeto / Project Structure
-
-```
-carstore/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── lucasserrato/
-│   │   │           └── carstore/
-│   │   │               ├── controller/
-│   │   │               │   └── VehicleController.java
-│   │   │               ├── model/
-│   │   │               │   └── Vehicle.java
-│   │   │               └── repository/
-│   │   │                   └── VehicleRepository.java
-│   │   └── resources/
-│   │       ├── application.properties
-│   │       └── templates/
-│   │           └── index.html
-├── .gitignore
-└── pom.xml
-```
 
 - **controller/**: Contém as classes responsáveis por lidar com as requisições HTTP.
 - **model/**: Define as entidades e seus atributos correspondentes ao banco de dados.
