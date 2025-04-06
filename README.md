@@ -44,7 +44,7 @@ The **CarStore** project was designed for educational purposes, aiming to:
 - controller: Contém as classes responsáveis por lidar com as requisições HTTP.
 - model: Define as entidades e seus atributos correspondentes ao banco de dados.
 - repository: Interfaces que gerenciam a comunicação com o banco de dados.
-- **resources: Arquivos de configuração e templates da aplicação.
+- resources: Arquivos de configuração e templates da aplicação.
 
 - controller: Contains classes responsible for handling HTTP requests.
 - model: Defines entities and their attributes corresponding to the database.
